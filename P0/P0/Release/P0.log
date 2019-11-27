@@ -1,0 +1,54 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\directionallight.cpp(18): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\directionallight.cpp(19): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\directionallight.cpp(21): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\directionallight.cpp(22): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  Light.cpp
+  Material.cpp
+  Mesh_tn.cpp
+  Model.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\model.cpp(15): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'const std::string'
+c:\users\hallo\onedrive\escritorio\p0\p0\model.cpp(15): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\hallo\onedrive\escritorio\p0\p0\model.cpp(15): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\hallo\onedrive\escritorio\p0\p0\model.cpp(50): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+c:\users\hallo\onedrive\escritorio\p0\p0\model.cpp(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\hallo\onedrive\escritorio\p0\p0\model.cpp(132): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+  PointLight.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(28): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(29): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(30): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(32): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(33): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(34): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\pointlight.cpp(35): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  practica11_helicoptero.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\window.h(16): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.h(17): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\practica11_helicoptero.cpp(452): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader_light.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\shader_light.cpp(202): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\shader_light.cpp(201): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\shader_light.cpp(215): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\shader_light.cpp(214): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\shader_light.cpp(213): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+  Skybox.cpp
+  Sphere.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\sphere.cpp(39): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\sphere.cpp(43): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+c:\users\hallo\onedrive\escritorio\p0\p0\window.h(16): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.h(17): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(131): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(132): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(136): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(137): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(139): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(140): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+c:\users\hallo\onedrive\escritorio\p0\p0\window.cpp(74): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 1039 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  P0.vcxproj -> C:\Users\hallo\OneDrive\Escritorio\P0\Release\P0.exe
